@@ -1,0 +1,13 @@
+
+
+.inputBox{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.AddBtn{
+    margin-bottom: 10px;
+}
+
+
